@@ -10,7 +10,7 @@ const contactForm = document.getElementById("contactForm");
 const successModal = document.getElementById("successModal");
 const closeModalBtn = document.getElementById("closeModalBtn");
 
-// Menu hambúrguer
+// Menu Hambúrguer
 menuIcon.addEventListener("click", () => {
   navLinks.classList.toggle("active");
 });
