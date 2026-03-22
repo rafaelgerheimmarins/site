@@ -236,7 +236,7 @@ body {
 
 /* Seção Formação */
 .educationSection {
-    background-image: linear-gradient(var(--overlayColor), var(--overlayColor)), url("bg.webp");
+    background-image: linear-gradient(var(--overlayColor), var(--overlayColor)), url("imgs/bg.webp");
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
